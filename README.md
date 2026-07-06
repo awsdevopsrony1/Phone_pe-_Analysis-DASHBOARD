@@ -5,7 +5,7 @@
 
 An interactive analytics dashboard built to visualize PhonePe transaction data — covering transaction trends, user demographics, service-wise value distribution, and top-user activity — designed to help understand payment behavior across India.
 
-![Dashboard Preview](./dashboard_preview.png)
+![Dashboard Preview](./DASHBOARD_PNG.png)
 > Replace `dashboard_preview.png` with the actual dashboard screenshot filename in your repo.
 
 ---
